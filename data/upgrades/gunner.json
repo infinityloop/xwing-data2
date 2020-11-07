@@ -469,5 +469,33 @@
     "limited": 0,
     "xws": "suppressivegunner",
     "hyperspace": true
+  },
+  {
+    "name": "Boba Fett",
+    "limited": 1,
+    "xws": "bobafett-gunner",
+    "hyperspace": false,
+    "sides": [
+      {
+        "ability": "While you perform an attack, if there are no other ships in the attack arc, you may change 1 of your [Focus] results to a [Hit] result.",
+        "title": "Boba Fett",
+        "type": "Gunner",
+        "slots": ["Gunner"]
+      }
+    ]
+  },
+  {
+    "name": "Weapons Systems Officer",
+    "limited": 0,
+    "xws": "weaponssystemsofficer",
+    "hyperspace": false,
+    "sides": [
+      {
+        "ability": "After you perform a special attack with the [Lock] requirement, you may acquire a lock on the defender.",
+        "title": "Weapons Systems Officer",
+        "type": "Gunner",
+        "slots": ["Gunner"]
+      }
+    ]
   }
 ]
